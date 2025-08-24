@@ -15,11 +15,8 @@
 ## 📂 フォルダの使い方（例）
 
 ```
-/taro/ # たろうさんの作品
-├─ lesson1/ # レッスン1で作ったプログラム
-├─ lesson2/
-/hanako/ # はなこさんの作品
-├─ lesson1/
-└─ lesson2/
+/YYYYMMDD/ # 授業の日付
+├─ tarou.html # たろうさんの作品
+├─ hanako.html # はなこさんの作品
 /common/ # みんなで使うサンプルや教材
 ```
